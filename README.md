@@ -13,12 +13,9 @@ This project aims to provide a real-time chat experience that's both scalable an
 
 ## Detailed Workflow Description:
 
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/f845a188-8e70-42f7-8577-30af38e83053)
- alt="workflow" width="200"/>
-</p>
-
-![image](https://github.com/user-attachments/assets/f845a188-8e70-42f7-8577-30af38e83053)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f845a188-8e70-42f7-8577-30af38e83053" alt="workflow"/>
+</div>
 
 
   - **User Interaction:**
