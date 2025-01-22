@@ -1,3 +1,13 @@
+# Full Stack Chatapp
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-purple?logo=github&style=flat)](https://github.com/iemafzalhassan)
+![Docker Image](https://img.shields.io/github/forks/iemafzalhassan/full-stack_chatApp)
+[![Stars](https://img.shields.io/github/stars/iemafzalhassan/full-stack_chatApp)](https://github.com/iemafzalhassan/full-stack_chatApp)
+![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/full-stack_chatApp?color=green)
+<p align="center">
+  <img src="frontend/public/assets/logo.svg" alt="EasyShop Logo" width="200"/>
+</p>
+
 ## 📝 Introduction:
 
 This project aims to provide a real-time chat experience that's both scalable and secure. With a focus on modern technologies, we're building an application that's easy to use and maintain.
